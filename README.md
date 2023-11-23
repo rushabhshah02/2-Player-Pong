@@ -1,4 +1,5 @@
 # 2-Player-Pong
+Author: Rushabh Shah
 - This is a graphical 2-Player Pong game.
 - The left player controls the left paddle and uses the 'q' and 'a' keys to control it.
 - The right player controls the right paddle and uses the 'p' and 'l' keys to control it.
