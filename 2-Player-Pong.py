@@ -9,6 +9,7 @@
 #   of their side of the window.
 # - First player to reach 11 points wins the game.
 # - The game stops when a player reaches 11 points.
+# AUTHOR - RUSHABH SHAH
 
 import pygame
 
