@@ -9,6 +9,8 @@
 #   of their side of the window.
 # - First player to reach 11 points wins the game.
 # - The game stops when a player reaches 11 points.
+# NOTE: TO MOVE THE LEFT PADDLE, PRESS DOWN Q AND A.
+#       TO MOVE THE RIGHT PADDLE, PRESS DOWN P AND L.
 # AUTHOR - RUSHABH SHAH
 
 import pygame
